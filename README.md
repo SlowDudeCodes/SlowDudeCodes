@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/wQDZjGS/Slow-Dude-Codes.png" alt="Slow-Dude-Codes" border="0">
+<img src="Slow Dude Codes.png" alt="Slow-Dude-Codes" border="0">
